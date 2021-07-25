@@ -1,4 +1,5 @@
 <!--markdown-pdf markdown-file-path-->
+<!--grip file-name-->
 
 # Introduction to Programming: Case Study
 
@@ -80,7 +81,7 @@ int main()
 }
 ```
 
-Output:
+**Output:**
 
 ```bash
 Value of a is 50
@@ -114,7 +115,7 @@ int main()
 }
 ```
 
-Output:
+**Output:**
 
 ```bash
 Value of a is 50
@@ -157,7 +158,7 @@ int main()
 }
 ```
 
-Output:
+**Output:**
 
 ```sh
 Enter Choice: 0 for add, 1 for subtract and 2 for multiply
@@ -208,7 +209,7 @@ Fun2
 
 # Arrays
 <br>
-<span><img src="https://cdn.programiz.com/sites/tutorial2program/files/c-arrays.jpg"></img></span>
+<span style="margin-left:150pt"><img src="https://cdn.programiz.com/sites/tutorial2program/files/c-arrays.jpg"></img></span>
 <br>
 
 - An array is a systematic arrangement of similar objects, usually in rows and columns.
@@ -302,7 +303,7 @@ int main() {
 }
 ```
 
-Output
+**Output**
 
 ```bash
 &x[0] = 1450734448
@@ -386,7 +387,7 @@ int main()
 }
 ```
 
-Output:
+**Output:**
 
 ```sh
 1
