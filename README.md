@@ -316,7 +316,7 @@ There is a difference of 4 bytes between two consecutive elements of array x. It
 
 Notice that, the address of &x[0] and x is the same. It’s because the variable name x points to the first element of the array.
 
-<img src="https://cdn.programiz.com/sites/tutorial2program/files/array-pointers.jpg" style="margin-left:100pt" fluid>
+<span style="padding:150pt"><img src="https://cdn.programiz.com/sites/tutorial2program/files/array-pointers.jpg"></span>
 
 From the above example, it is clear that &x[0] is equivalent to x. And, x[0] is equivalent to *x.
 
